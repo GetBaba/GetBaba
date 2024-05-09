@@ -8,34 +8,30 @@ On the side, my main hobbies include playing chess; skateboarding and playing ba
 
 ## 🔧 Technologies & Tools
 
-Python, SQL, HTML, Dataiku, PowerBI, Tableau, Keras, Hubspot, Apache Spark , NiFi
-Languages: 🐍Python | 💽SQL 
+Languages: 🐍Python | 💽SQL | 💻HTML 
 Libraries: 🐼pandas | 🧮numpy | 🧠scikit-learn | 🔷TensorFlow | 🤖openai | 📈matplotlib | 📉plotly | 🌊seaborn | 🎨streamlit | 🔧joblib
-Tools and Technologies: 📒Jupyter | 🔄Apache NiFi | ✨Apache Spark | 🐬MySQL Workbench | 🛠️DBeaver | 🔍Google Colab
-Data Visualization: 📊Tableau | 👀Looker
+Tools and Technologies: 📒Jupyter | 🔄Apache NiFi | ✨Apache Spark | 🐬MySQL Workbench | 🛠️DBeaver | 🔍Google Colab |👾Keras |🔮Hubspot |🔬Dataiku 
+Data Visualization: 📊Tableau | 👀Looker |⚡PowerBI
 Database Management Systems: 🖥️MySQL | 🍃MongoDB
 
 ## 🌱 I’m currently learning
 
 AWS Certified Data Engineer (In progress) 
 
-## 📫 How to reach me
-
-- https://www.linkedin.com/in/baptiste-richard-673546197/
-- baptisterichard88@student.ie.edu
-- baptisterichard2020@gmail.com
-
 ## 💼 My Work
 
 - [Project 1](Link to Project 1)
 - [Project 2](Link to Project 2)
 
-## 📈 GitHub Stats
+## 📫 How to reach me
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](Your GitHub Profile Link)
+- https://www.linkedin.com/in/baptiste-richard-673546197/
+- https://www.datacamp.com/portfolio/baptisterichard88
+- baptisterichard88@student.ie.edu
+- baptisterichard2020@gmail.com
+
 
 ## 🚀 My GitHub Contributions
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)](Your GitHub Profile Link)
 
 Feel free to explore my repositories and don't hesitate to reach out! 😊
