@@ -9,9 +9,13 @@ On the side, my main hobbies include playing chess; skateboarding and playing ba
 ## 🔧 Technologies & Tools
 
 Languages: 🐍Python | 💽SQL | 💻HTML 
+
 Libraries: 🐼pandas | 🧮numpy | 🧠scikit-learn | 🔷TensorFlow | 🤖openai | 📈matplotlib | 📉plotly | 🌊seaborn | 🎨streamlit | 🔧joblib
+
 Tools and Technologies: 📒Jupyter | 🔄Apache NiFi | ✨Apache Spark | 🐬MySQL Workbench | 🛠️DBeaver | 🔍Google Colab |👾Keras |🔮Hubspot |🔬Dataiku 
+
 Data Visualization: 📊Tableau | 👀Looker |⚡PowerBI
+
 Database Management Systems: 🖥️MySQL | 🍃MongoDB
 
 ## 🌱 I’m currently learning
