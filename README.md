@@ -15,9 +15,9 @@ Python, HTML, SQL, Dataiku, PowerBI,
 
 ## 📫 How to reach me
 
-- [LinkedIn](Your LinkedIn Profile Link)
-- [Twitter](Your Twitter Profile Link)
-- [Email](Your Email Address)
+- (https://www.linkedin.com/in/baptiste-richard-673546197/)
+- baptisterichard88@student.ie.edu
+- baptisterichard2020@gmail.com
 
 ## 💼 My Work
 
