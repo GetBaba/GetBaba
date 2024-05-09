@@ -25,6 +25,8 @@ AWS Certified Data Engineer (In progress)
 ## 💼 My Work
 
 - [Project 1](Link to Project 1)
+
+  
 - [Project 2](Link to Project 2)
 
 ## 📫 How to reach me
