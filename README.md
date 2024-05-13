@@ -8,7 +8,7 @@ On the side, my main hobbies include playing chess; skateboarding and playing ba
 
 ## 🔧 Technologies & Tools
 
-Languages: 🐍Python | 💽SQL | 💻HTML 
+Languages: 🐍Python | 💽SQL | 💻HTML| 📟Linux
 
 Libraries: 🐼pandas | 🧮numpy | 🧠scikit-learn | 🔷TensorFlow | 🤖openai | 📈matplotlib | 📉plotly | 🌊seaborn | 🎨streamlit | 🔧joblib
 
